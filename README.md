@@ -1,4 +1,4 @@
 # YouTube-channel-storage
-This is a folder where I keep all my presentations and source code from my YT channel.
+This is a folder where I keep all my presentations from my YT channel.
 
-Contributions are always welcome.
+You can use them for your own purposes, just mention my name in the credentials.
